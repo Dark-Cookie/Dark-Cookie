@@ -1,6 +1,6 @@
 # Hi there, I'm Asif 👋
 
-I am an aspiring Cloud Architect with a solid foundation in Computer Science (BSc '22, MSc '24). I am deeply committed to my career growth and aim to excel as a cloud architect. 
+I am a Junior Cloud Engineer with a solid foundation in Computer Science (BSc '22, MSc '24). I am deeply committed to my career growth and aim to excel as a cloud architect. 
 
 ## About Me
 
