@@ -29,6 +29,11 @@ I am committed to continuous learning, possess a growth mindset, and am eager to
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Project: The Cloud Resume Challenge](https://medium.com/@asif26073/aws-project-the-cloud-resume-challenge-ffb545967df4?source=rss-52eb36962d9c------2)
+- [AWS Project: Serverless Data Processing on AWS](https://medium.com/@asif26073/aws-project-serverless-data-processing-on-aws-e44b992b424e?source=rss-52eb36962d9c------2)
+- [AWS Project: Deploying a Complete Machine Learning Fraud Detection Solution Using Amazon SageMaker](https://medium.com/@asif26073/aws-project-deploying-a-complete-machine-learning-fraud-detection-solution-using-amazon-sagemaker-1731b1fc3b9b?source=rss-52eb36962d9c------2)
+- [AWS Project: Large-scale Data Processing with Step Functions](https://medium.com/@asif26073/aws-project-large-scale-data-processing-with-step-functions-6f5e4ab7b674?source=rss-52eb36962d9c------2)
+- [AWS Project: Building Web Applications Using Amazon EKS](https://medium.com/@asif26073/aws-project-building-web-applications-using-amazon-eks-fb2141bf525f?source=rss-52eb36962d9c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
