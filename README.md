@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-cookie" alt="dark-cookie" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/asif26073" target="blank"><img src="https://img.shields.io/twitter/follow/asif26073?logo=twitter&style=for-the-badge" alt="asif26073" /></a> </p>
-
 ## About Me
 
 - 🌱 I’m currently learning **Everything about cloud**
