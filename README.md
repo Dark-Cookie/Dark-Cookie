@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Everything about cloud**
 
-- 👨‍💻 All of my AWS projects are available at [My GitHub Repo](https://github.com/Dark-Cookie/AWS-Projects)
+- 👨‍💻 All of my AWS projects are available at **[My GitHub Repo](https://github.com/Dark-Cookie/AWS-Projects)**
 
-- 📝 I regularly write articles on [Medium.com](https://medium.com/@asif26073) , [Dev.to](https://dev.to/asif_khan)
+- 📝 I regularly write articles on **[Medium.com](https://medium.com/@asif26073)**, **[Dev.to](https://dev.to/asif_khan)**
 
 - 💬 Ask me about: **Cloud, AWS, Linux**
 
 - 📫 How to reach me: **[Email](asif26073@gmail.com)**
 
-- 📄 Know about my experiences: [Resume](https://www.linkedin.com/posts/asif0108_resume-activity-7262427627242614814-G13R?utm_source=share&utm_medium=member_desktop)
+- 📄 Know about my experiences: **[Resume](https://www.linkedin.com/posts/asif0108_resume-activity-7262427627242614814-G13R?utm_source=share&utm_medium=member_desktop)**
 
 - ⚡ Fun fact: **I worked with Linus Torvalds on the Kernel… in an alternate universe where I’m a genius coder!**
 
