@@ -46,7 +46,7 @@ I am committed to continuous learning, possess a growth mindset, and am eager to
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-cookie&show_icons=true&theme=highcontrast&locale=en" alt="dark-cookie" /></p>
 
-# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-cookie&theme=highcontrast" alt="dark-cookie" /></p> [Stopped working, might work again]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-cookie&theme=highcontrast" alt="dark-cookie" /></p>
 
 ## Connect with Me
 <p align="left">
