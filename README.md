@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on **[Medium.com](https://medium.com/@asif26073)**, **[Dev.to](https://dev.to/asif_khan)**
 
-- 💬 Ask me about: **Cloud, AWS, Linux**
+- 💬 Ask me about: **Cloud, AWS, Linux, DevOps**
 
 - 📫 How to reach me: **[Email](asif26073@gmail.com)**
 
@@ -58,4 +58,4 @@ I am committed to continuous learning, possess a growth mindset, and am eager to
 <a href="https://medium.com/@asif26073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asif26073" height="30" width="40" /></a>
 </p>
 
-Thanks for visiting my GitHub profile!
+Thanks for visiting my profile! Let’s connect and collaborate on building innovative cloud solutions. Feel free to reach out!
