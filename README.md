@@ -21,11 +21,11 @@
 
 - ⚡ Fun fact: **I worked with Linus Torvalds on the Kernel… in an alternate universe where I’m a genius coder!**
 
-Currently, I am dedicated to honing my skills and expertise, preparing for a career in cloud engineering. I am actively involved in networking, operating systems, virtualization, and databases.
+I’m currently honing my skills in cloud engineering, with a strong focus on AWS Cloud, Linux, and DevOps.
 
-My focus is on acquiring practical experience as a cloud engineer, bridging the gap between theory and application. This role serves as a stepping stone toward my ultimate goal of becoming a proficient cloud architect.
+My goal is to bridge the gap between theory and hands-on application, gaining practical experience to excel as a cloud engineer. This role serves as a stepping stone toward my ultimate aspiration of becoming a proficient cloud architect.
 
-I am committed to continuous learning, possess a growth mindset, and am eager to contribute to innovative cloud solutions that drive business transformation.
+With a commitment to continuous learning and a growth mindset, I’m eager to contribute to innovative cloud solutions that drive business transformation.
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
