@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Asif 👋</h1>
-<h3 align="center">I am a Junior Cloud Engineer with a solid foundation in Computer Science (BSc '22, MSc '24). I am deeply committed to my career growth and aim to excel as a cloud architect.</h3>
+<h3 align="center">I am an AWS Certified Cloud & DevOps Engineer with a strong foundation in Computer Science (BSc '22, MSc '24). Passionate about cloud technologies, I aim to leverage AWS to build scalable, secure, and efficient cloud solutions. I'm committed to continuous learning and focused on building hands-on experience in cloud engineering, aiming to transition into a Cloud Architect role. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-cookie&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true&color=brightgreen" alt="dark-cookie" /> </p>
 
