@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Everything about cloud**
+- 🌱 I’m currently learning **AWS Cloud, Linux, and DevOps**
 
 - 👨‍💻 All of my AWS projects are available at **[My GitHub Repo](https://github.com/Dark-Cookie/AWS-Projects)**
 
